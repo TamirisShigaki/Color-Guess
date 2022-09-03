@@ -9,7 +9,7 @@ O usuário precisa adivinhar qual cor de uma paleta gerada aleatoriamente corres
 ## Habilidades Desenvolvidas
 
 * Usei a API DOM para acessar elementos HTML
-* Reaji às interações do usuário usando ouvintes de eventos
+* Reagi às interações do usuário usando ouvintes de eventos
 
 ## Ferramentas
 
